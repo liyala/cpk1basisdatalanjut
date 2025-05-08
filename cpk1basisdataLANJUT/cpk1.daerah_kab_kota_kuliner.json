@@ -1,0 +1,442 @@
+[{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda0"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Gudeg Yu Djum",
+        "deskripsi": "Makanan khas Yogyakarta dengan cita rasa manis"
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda1"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "pudak",
+        "deskripsi": "Makanan khas gresik dengan cita rasa manis"
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda2"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "sate madura",
+        "deskripsi": "Makanan khas madura dengan cita rasa gurih"
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda3"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Seblak",
+        "deskripsi": "Makanan khas Bandung berbahan kerupuk basah dengan rasa pedas yang menggoda."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda4"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Kerak Telor",
+        "deskripsi": "Jajanan khas Betawi dengan telur, beras ketan, dan kelapa."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda5"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Ayam Betutu",
+        "deskripsi": "Ayam khas Bali yang dimasak dengan bumbu rempah yang kaya rasa."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda6"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Coto Makassar",
+        "deskripsi": "Kuliner khas berbahan dasar daging sapi dengan kuah rempah."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda7"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Coto Makassar",
+        "deskripsi": "Kuliner khas berbahan dasar daging sapi dengan kuah rempah."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda8"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Lumpia Semarang",
+        "deskripsi": "Jajanan khas Semarang berbentuk gulungan dengan isi rebung dan daging."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda9"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Rawon",
+        "deskripsi": "Sup daging khas Surabaya dengan kuah hitam yang gurih."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddaa"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Bika Ambon",
+        "deskripsi": "Kue khas Medan dengan tekstur berserat dan rasa manis."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddab"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Pempek",
+        "deskripsi": "Makanan khas Palembang berbahan dasar ikan dan tepung sagu, disajikan dengan kuah cuka."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddac"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Rendang",
+        "deskripsi": "Makanan khas Padang yang terkenal dengan rasa kaya rempah dan tekstur lembut."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddad"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Kwetiau Pontianak",
+        "deskripsi": "Hidangan berbahan dasar kwetiau dengan bumbu khas Pontianak."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddae"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Tinutuan",
+        "deskripsi": "Bubur khas Manado dengan berbagai sayuran sehat."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddaf"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Kepiting Kenari",
+        "deskripsi": "Kuliner khas Balikpapan yang terkenal dengan kepiting segarnya."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb0"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Soto Banjar",
+        "deskripsi": "Soto khas Banjarmasin yang terkenal dengan rasa gurihnya."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb1"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Bakso Malang",
+        "deskripsi": "Kuliner khas Malang yang terdiri dari berbagai jenis bakso dan gorengan."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb2"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Roti Jala",
+        "deskripsi": "Kuliner khas Riau dengan tekstur lembut dan kuah kari."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb3"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Papeda",
+        "deskripsi": "Makanan khas Papua berbahan dasar sagu dengan tekstur kenyal dan disajikan dengan kuah ikan."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb4"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Se'i Sapi",
+        "deskripsi": "Daging asap khas NTT dengan cita rasa khas yang lezat."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb5"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Gohu Ikan",
+        "deskripsi": "Hidangan khas Ternate berbahan dasar ikan mentah dengan bumbu khas."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb6"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Ikan Asar",
+        "deskripsi": "Ikan asap khas Maluku dengan cita rasa khas."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb7"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Ayam Taliwang",
+        "deskripsi": "Ayam bakar khas Mataram dengan bumbu pedas gurih."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb8"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Juhu Umbut Rotan",
+        "deskripsi": "Makanan khas Dayak berbahan dasar rotan muda yang gurih."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb9"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Pendap",
+        "deskripsi": "Makanan khas Bengkulu berbahan dasar daun talas dan ikan dengan bumbu yang khas."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddba"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Binte Biluhuta",
+        "deskripsi": "Makanan khas Gorontalo berbahan dasar jagung, ikan, dan rempah-rempah."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddbb"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Kabuto",
+        "deskripsi": "Makanan khas Kendari berbahan dasar jagung yang difermentasi."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddbc"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Ayam Cincane",
+        "deskripsi": "Ayam bakar khas Samarinda dengan bumbu merah yang gurih."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddbd"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Rabeg",
+        "deskripsi": "Makanan khas Serang berbahan dasar daging kambing dengan kuah rempah."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddbe"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Uta Dada",
+        "deskripsi": "Makanan khas Palu berbahan dasar ayam dan santan."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddbf"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Laksa Bogor",
+        "deskripsi": "Hidangan khas Bogor dengan kuah santan yang kaya rempah."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddc0"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Mie Tarempa",
+        "deskripsi": "Mie khas Batam dengan cita rasa gurih dan sedikit pedas."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddc1"
+  },
+  "wisata": {
+    "kuliner": [
+      {
+        "nama": "Seruit",
+        "deskripsi": "Kuliner khas Lampung berupa ikan bakar dengan sambal terasi dan lalapan."
+      }
+    ]
+  }
+}]

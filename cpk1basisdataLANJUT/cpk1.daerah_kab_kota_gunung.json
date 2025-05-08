@@ -1,0 +1,442 @@
+[{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda0"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Merapi",
+        "deskripsi": "Gunung berapi aktif di perbatasan Yogyakarta dan Jawa Tengah"
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda1"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "bukit jamur",
+        "deskripsi": "bukit yang mirip jamur"
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda2"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Maddah",
+        "deskripsi": "Gunung dengan pemandangan yang cantik"
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda3"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Tangkuban Perahu",
+        "deskripsi": "Gunung dengan legenda Sangkuriang, menawarkan kawah dan panorama indah."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda4"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Gede",
+        "deskripsi": "Gunung dekat Jakarta dengan jalur pendakian populer."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda5"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Agung",
+        "deskripsi": "Gunung tertinggi di Bali yang dianggap suci oleh masyarakat setempat."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda6"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Bawakaraeng",
+        "deskripsi": "Gunung dengan pemandangan spektakuler dan jalur trekking menarik."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda7"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Bawakaraeng",
+        "deskripsi": "Gunung dengan pemandangan spektakuler dan jalur trekking menarik."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda8"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Ungaran",
+        "deskripsi": "Gunung yang populer untuk pendakian dengan pemandangan indah."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda9"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Penanggungan",
+        "deskripsi": "Gunung dengan banyak situs sejarah peninggalan kerajaan kuno."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddaa"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Sibayak",
+        "deskripsi": "Gunung dengan kawah aktif dan jalur pendakian yang menawan."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddab"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Dempo",
+        "deskripsi": "Gunung di perbatasan Sumatera Selatan dan Bengkulu dengan pemandangan indah."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddac"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Singgalang",
+        "deskripsi": "Gunung dengan panorama alam yang menakjubkan dan cocok untuk pendaki."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddad"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Palung",
+        "deskripsi": "Gunung yang terkenal dengan keanekaragaman hayati di Kalimantan Barat."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddae"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Klabat",
+        "deskripsi": "Gunung tertinggi di Sulawesi Utara dengan pemandangan luar biasa."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddaf"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Komendur",
+        "deskripsi": "Gunung dengan pemandangan alam yang asri."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb0"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Pamaton",
+        "deskripsi": "Gunung dengan jalur trekking yang menarik."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb1"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Bromo",
+        "deskripsi": "Gunung yang terkenal dengan pemandangan matahari terbitnya."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb2"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Bungkuk",
+        "deskripsi": "Gunung dengan alam yang masih asri dan jalur pendakian menarik."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb3"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Cycloop",
+        "deskripsi": "Gunung yang menjadi ikon Jayapura dengan pemandangan alam yang menawan."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb4"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Mutis",
+        "deskripsi": "Gunung tertinggi di NTT yang kaya akan keanekaragaman hayati."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb5"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Gamalama",
+        "deskripsi": "Gunung berapi yang menjadi ikon Pulau Ternate."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb6"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Salahutu",
+        "deskripsi": "Gunung tertinggi di Pulau Ambon dengan jalur pendakian menantang."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb7"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Rinjani",
+        "deskripsi": "Gunung tertinggi di Lombok dengan keindahan alam yang luar biasa."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb8"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Bukit Tangkiling",
+        "deskripsi": "Bukit dengan panorama alam yang menarik untuk hiking."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb9"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Kaba",
+        "deskripsi": "Gunung dengan kawah aktif dan jalur pendakian yang menarik."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddba"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Tilongkabila",
+        "deskripsi": "Gunung dengan panorama indah dan jalur hiking yang menarik."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddbb"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Mekongga",
+        "deskripsi": "Gunung tertinggi di Sulawesi Tenggara dengan keanekaragaman hayati yang kaya."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddbc"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Rian",
+        "deskripsi": "Gunung yang terkenal dengan air terjun alami yang indah."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddbd"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Karang",
+        "deskripsi": "Gunung yang cocok untuk pendakian dengan panorama yang memukau."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddbe"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Gawalise",
+        "deskripsi": "Gunung dengan jalur pendakian yang menarik dan pemandangan alam yang luar biasa."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddbf"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Salak",
+        "deskripsi": "Gunung dengan jalur pendakian menantang dan pemandangan indah."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddc0"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Bukit Senyum",
+        "deskripsi": "Bukit dengan pemandangan indah ke arah kota dan laut."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddc1"
+  },
+  "wisata": {
+    "gunung": [
+      {
+        "nama": "Gunung Rajabasa",
+        "deskripsi": "Gunung yang menawarkan keindahan alam di Lampung Selatan."
+      }
+    ]
+  }
+}]

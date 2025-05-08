@@ -1,0 +1,442 @@
+[{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda0"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Keraton Yogyakarta",
+        "deskripsi": "Istana resmi Kesultanan Yogyakarta"
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda1"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "makam sunan giri",
+        "deskripsi": "makam tokoh sunan giri"
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda2"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Keraton Sumenep",
+        "deskripsi": "Peninggalan masa kerajaan di Sumenep"
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda3"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Gedung Sate",
+        "deskripsi": "Bangunan ikonik yang menjadi pusat pemerintahan Jawa Barat."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda4"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Monumen Nasional (Monas)",
+        "deskripsi": "Monumen kebanggaan nasional dengan museum sejarah di dalamnya."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda5"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Pura Besakih",
+        "deskripsi": "Kompleks pura terbesar di Bali yang memiliki nilai sejarah tinggi."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda6"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Benteng Rotterdam",
+        "deskripsi": "Bangunan peninggalan kolonial yang kini menjadi pusat kebudayaan."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda7"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Benteng Rotterdam",
+        "deskripsi": "Bangunan peninggalan kolonial yang kini menjadi pusat kebudayaan."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda8"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Lawang Sewu",
+        "deskripsi": "Bangunan bersejarah yang terkenal dengan arsitektur kolonial."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda9"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Monumen Kapal Selam",
+        "deskripsi": "Museum kapal selam yang bersejarah dan unik."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddaa"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Istana Maimun",
+        "deskripsi": "Istana bersejarah dengan arsitektur unik dan penuh sejarah."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddab"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Benteng Kuto Besak",
+        "deskripsi": "Benteng bersejarah yang merupakan simbol kekuatan Kesultanan Palembang."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddac"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Museum Adityawarman",
+        "deskripsi": "Museum yang menyimpan sejarah dan budaya Minangkabau."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddad"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Tugu Khatulistiwa",
+        "deskripsi": "Monumen yang menandakan garis khatulistiwa."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddae"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Benteng Amsterdam",
+        "deskripsi": "Bangunan peninggalan kolonial Belanda yang bersejarah."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddaf"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Monumen Perjuangan Rakyat",
+        "deskripsi": "Monumen bersejarah yang mengenang perjuangan rakyat Balikpapan."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb0"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Masjid Sultan Suriansyah",
+        "deskripsi": "Masjid bersejarah dengan arsitektur khas Banjar."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb1"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Kampung Warna-Warni Jodipan",
+        "deskripsi": "Kawasan bersejarah yang terkenal dengan warna-warninya."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb2"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Masjid An-Nur",
+        "deskripsi": "Masjid megah dengan arsitektur khas Melayu."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb3"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Museum Loka Budaya",
+        "deskripsi": "Museum yang menyimpan sejarah dan budaya masyarakat Papua."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb4"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Benteng Portugis",
+        "deskripsi": "Situs bersejarah peninggalan kolonial Portugis di Kupang."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb5"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Benteng Tolukko",
+        "deskripsi": "Benteng peninggalan Portugis yang bersejarah."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb6"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Benteng Amsterdam",
+        "deskripsi": "Bangunan peninggalan kolonial Belanda yang bersejarah."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb7"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Pura Meru",
+        "deskripsi": "Pura Hindu terbesar di Lombok yang bersejarah."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb8"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Rumah Adat Betang",
+        "deskripsi": "Rumah adat suku Dayak dengan nilai sejarah yang tinggi."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb9"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Benteng Marlborough",
+        "deskripsi": "Benteng peninggalan kolonial Inggris yang bersejarah."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddba"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Benteng Otanaha",
+        "deskripsi": "Benteng peninggalan sejarah yang dibangun oleh raja-raja Gorontalo."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddbb"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Benteng Lipu",
+        "deskripsi": "Benteng bersejarah yang menjadi simbol perlawanan masyarakat Sulawesi Tenggara."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddbc"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Masjid Islamic Center Samarinda",
+        "deskripsi": "Masjid megah dengan arsitektur yang memukau."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddbd"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Benteng Speelwijk",
+        "deskripsi": "Benteng peninggalan kolonial Belanda dengan nilai sejarah tinggi."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddbe"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Museum Negeri Sulawesi Tengah",
+        "deskripsi": "Museum yang menyimpan sejarah dan budaya masyarakat Palu."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddbf"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Istana Bogor",
+        "deskripsi": "Istana kepresidenan dengan taman yang luas dan bersejarah."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddc0"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Jembatan Barelang",
+        "deskripsi": "Ikon Batam yang terdiri dari rangkaian enam jembatan."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddc1"
+  },
+  "wisata": {
+    "bangunan_bersejarah": [
+      {
+        "nama": "Menara Siger",
+        "deskripsi": "Ikon Lampung yang menjadi simbol keberagaman budaya."
+      }
+    ]
+  }
+}]

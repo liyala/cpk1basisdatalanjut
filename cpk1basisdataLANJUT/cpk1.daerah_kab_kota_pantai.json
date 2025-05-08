@@ -1,0 +1,442 @@
+[{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda0"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Pantai Parangtritis",
+        "deskripsi": "Pantai terkenal dengan legenda Ratu Laut Selatan"
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda1"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Pantai dalegan",
+        "deskripsi": "Pantai terkenal dengan legenda Ratu Laut Selatan"
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda2"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Pantai sambilangan",
+        "deskripsi": "Pantai terkenal dengan pemandangan yang sangat cantik"
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda3"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Situ Patenggang",
+        "deskripsi": "Danau eksotis dengan suasana romantis di kawasan Ciwidey."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda4"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Pantai Ancol",
+        "deskripsi": "Pantai wisata terkenal di kawasan Ancol."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda5"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Pantai Kuta",
+        "deskripsi": "Pantai terkenal di Bali dengan ombak yang cocok untuk berselancar."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda6"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Pantai Losari",
+        "deskripsi": "Pantai ikonik Makassar yang terkenal dengan pemandangan matahari terbenam."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda7"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Pantai Losari",
+        "deskripsi": "Pantai ikonik Makassar yang terkenal dengan pemandangan matahari terbenam."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda8"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Pantai Marina",
+        "deskripsi": "Pantai dengan suasana tenang dan cocok untuk bersantai."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002dda9"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Pantai Kenjeran",
+        "deskripsi": "Pantai wisata terkenal di Surabaya."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddaa"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Danau Toba",
+        "deskripsi": "Danau vulkanik terbesar di Indonesia dengan keindahan alam luar biasa."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddab"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Pantai Pasir Putih",
+        "deskripsi": "Pantai dengan pasir putih yang eksotis dan air jernih."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddac"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Pantai Air Manis",
+        "deskripsi": "Pantai dengan legenda Malin Kundang yang menarik."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddad"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Pantai Kijing",
+        "deskripsi": "Pantai dengan pasir putih dan laut yang tenang."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddae"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Pantai Bunaken",
+        "deskripsi": "Pantai dengan taman laut terkenal dan keanekaragaman hayati."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddaf"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Pantai Lamaru",
+        "deskripsi": "Pantai dengan pasir putih dan suasana yang tenang."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb0"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Pantai Angsana",
+        "deskripsi": "Pantai dengan keindahan bawah laut yang menawan."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb1"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Pantai Balekambang",
+        "deskripsi": "Pantai dengan pura kecil di atas batu karang."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb2"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Danau Buatan",
+        "deskripsi": "Danau wisata dengan pemandangan hijau yang menyejukkan."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb3"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Danau Sentani",
+        "deskripsi": "Danau terbesar di Papua dengan keindahan alam dan budaya yang khas."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb4"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Pantai Lasiana",
+        "deskripsi": "Pantai terkenal dengan pasir putih dan pohon lontar."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb5"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Pantai Sulamadaha",
+        "deskripsi": "Pantai dengan air laut yang jernih dan pemandangan bawah laut yang indah."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb6"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Pantai Natsepa",
+        "deskripsi": "Pantai terkenal dengan pasir putih dan kuliner khas rujak Natsepa."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb7"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Pantai Senggigi",
+        "deskripsi": "Pantai terkenal dengan pasir putih dan ombak yang cocok untuk selancar."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb8"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Danau Tahai",
+        "deskripsi": "Danau dengan air merah khas dan rumah terapung."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddb9"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Pantai Panjang",
+        "deskripsi": "Pantai dengan garis pantai panjang dan pasir putih yang indah."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddba"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Danau Limboto",
+        "deskripsi": "Danau yang menjadi ikon Gorontalo dengan keindahan alam."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddbb"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Pantai Nambo",
+        "deskripsi": "Pantai dengan pasir putih dan air laut yang jernih."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddbc"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Pantai Tanah Merah",
+        "deskripsi": "Pantai dengan pasir kemerahan yang unik dan pemandangan laut yang mempesona."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddbd"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Pantai Anyer",
+        "deskripsi": "Pantai wisata populer dengan pasir putih dan laut biru."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddbe"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Pantai Tanjung Karang",
+        "deskripsi": "Pantai dengan air laut jernih dan keindahan bawah laut yang mempesona."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddbf"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Situ Gede",
+        "deskripsi": "Danau kecil dengan suasana asri dan tenang."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddc0"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Pantai Nongsa",
+        "deskripsi": "Pantai terkenal di Batam dengan air laut biru dan pasir putih."
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681cbe408de5153cc002ddc1"
+  },
+  "wisata": {
+    "danau_pantai": [
+      {
+        "nama": "Pantai Mutun",
+        "deskripsi": "Pantai dengan pasir putih yang indah dan cocok untuk wisata keluarga."
+      }
+    ]
+  }
+}]
